@@ -1,0 +1,28 @@
+name: Holy Insanity
+favicon: null
+layout_spectrum: 0.5187214647885412
+typography_spectrum: 0.3336680489592254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10355638898909092
+  lightness: 0.028750004712492228
+  saturation: 0.34698236430995166
+  rhythmicContrast: 0.8698819244746119
+purpose: []
